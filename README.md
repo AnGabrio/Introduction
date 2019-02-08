@@ -2,8 +2,8 @@
 My main research areas include Bayesian methodology, Bayesian parametric modelling, Health Economics and Economic Evaluations, methods for handling missing data, meta-analysis and survival analysis methods.
 
 ## Webpage: 
-My personal webpage is [here](https://sites.google.com/site/agabriostats/home)
-My department webpage is [here](https://www.ucl.ac.uk/statistics/andrea-gabrio)
+* My personal webpage is [here](https://sites.google.com/site/agabriostats/home)
+* My department webpage is [here](https://www.ucl.ac.uk/statistics/andrea-gabrio)
 
 ## CV: 
 Find it [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhZ2Ficmlvc3RhdHN8Z3g6NjdiYjhkNWE4ZTBjNzhmYw)
