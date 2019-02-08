@@ -12,7 +12,7 @@ Find it [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbW
 
 # People
 * Collaborations
-  * Michael J. Daniels (University of Florida)
+  * [Michael J. Daniels](http://archived.stat.ufl.edu/personnel/usrpages/daniels.shtml) (University of Florida)
 * Supervisors
   * Gianluca Baio (UCL)
   * Alexina J. Mason (LSHTM)
