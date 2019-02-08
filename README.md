@@ -20,7 +20,8 @@ Find it [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbW
 
 # Papers
 Some of the papers published through projects
-* Gabrio, A., Mason, JM. and Baio,G. 2016. [Handling Missing Data in Within-Trial Cost-Effectiveness Analysis: a Review with Future Recommendations](https://link.springer.com/article/10.1007/s41669-017-0015-6). PharmacoEconomics-Open 1(2): 79-97
+* Gabrio, A. Mason, JM. and Baio, G. 2018. [A full Bayesian model to handle structural ones and missingness in economic evaluations from individual‐level data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8045). Statistics in Medicine
+* Gabrio, A., Mason, JM. and Baio, G. 2017. [Handling Missing Data in Within-Trial Cost-Effectiveness Analysis: a Review with Future Recommendations](https://link.springer.com/article/10.1007/s41669-017-0015-6). PharmacoEconomics-Open 1(2): 79-97
 
 # Code
 Add code here
