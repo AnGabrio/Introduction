@@ -1,8 +1,9 @@
 # About me
-My main research areas include Bayesian methodology, Bayesian parametrics, Health Economics and Economic Evaluations, methods for handling missing data, and survival analysis.
+My main research areas include Bayesian methodology, Bayesian parametric modelling, Health Economics and Economic Evaluations, methods for handling missing data, meta-analysis and survival analysis methods.
 
 ## Webpage: 
-My official Website is [here](https://sites.google.com/site/agabriostats/home)
+My personal webpage is [here](https://sites.google.com/site/agabriostats/home)
+My department webpage is [here](https://www.ucl.ac.uk/statistics/andrea-gabrio)
 
 ## CV: 
 Find it [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhZ2Ficmlvc3RhdHN8Z3g6NjdiYjhkNWE4ZTBjNzhmYw)
@@ -12,11 +13,11 @@ Find it [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbW
 
 # People
 * Collaborations
-  * [Michael J. Daniels](http://archived.stat.ufl.edu/personnel/usrpages/daniels.shtml) (University of Florida)
+  * [Michael J. Daniels](http://archived.stat.ufl.edu/personnel/usrpages/daniels.shtml). Department of statistics (University of Florida)
 * Supervisors
-  * Gianluca Baio (UCL)
-  * Alexina J. Mason (LSHTM)
-  * Rachael Hunter (UCL)
+  * [Gianluca Baio](https://www.ucl.ac.uk/statistics/people/gianlucabaio). Department of statistical science (UCL)
+  * [Rachael Hunter](https://iris.ucl.ac.uk/iris/browse/profile?upi=RMHUN48). Department of Primary Care and Population Health (UCL)
+  * [Alexina J. Mason](https://www.lshtm.ac.uk/aboutus/people/mason.alexina). Department of Health Services Research and Policy (LSHTM)
 
 # Papers
 Some of the papers published through projects
