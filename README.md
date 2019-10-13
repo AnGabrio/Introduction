@@ -9,7 +9,7 @@ My main research areas include Bayesian methodology, Bayesian parametric and non
 * Health Economics Analysis and Research Methods Team (HEART) [blog](https://hearteam.blogspot.com/)
 
 ## CV: 
-See [here](https://drive.google.com/drive/my-drive)
+See [here](https://www.luminpdf.com/viewer/5da369de40da610019b049d4)
 
 # Work and Projects
 * [Full Bayesian Methods to Handle Missing Data in Health Economic Evaluation](https://www.ucl.ac.uk/statistics/research/statistics-health-economics/current-projects/ag)
